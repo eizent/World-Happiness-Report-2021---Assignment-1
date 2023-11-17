@@ -1,6 +1,6 @@
 World Happiness Report Data from 2021, source https://worldhappiness.report/ed/2021
 
-All data that the researchers used to create this dataset was taken from the Gallup World Poll. 
+All data that the researchers used to create this dataset was taken from the Gallup World Poll. This dataset can be used to investigate 'happiness' across different countries and different years, paying special attention to the impact that the COVID-19 pandemic may have had on life satisfaction across the world. 
 
 world-happiness-report.csv contains each country and their happiness score from previous years. 
 
